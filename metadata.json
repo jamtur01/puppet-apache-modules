@@ -1,0 +1,12 @@
+{
+  "name": "jamtur01-apachemodules",
+  "version": "0.0.2",
+  "author": "jamtur01",
+  "summary": "A Puppet module for managing Debian and Ubuntu Apache modules",
+  "license": "Apache 2.0",
+  "source": "https://github.com/jamtur01/puppet-apache-modules",
+  "project_page": "https://github.com/jamtur01/puppet-apache-modules",
+  "issues_url": null,
+  "dependencies": [
+  ]
+}
